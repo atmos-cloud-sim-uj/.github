@@ -6,7 +6,11 @@ Funding:
 Our technologicial stack:   
 [![Python 3](https://img.shields.io/static/v1?label=Python&logo=Python&color=3776AB&message=3)](https://www.python.org/)
 [![LLVM](https://img.shields.io/static/v1?label=LLVM&logo=LLVM&color=gold&message=Numba)](https://numba.pydata.org)
-[![Jupyter](https://img.shields.io/static/v1?label=Jupyter&logo=Jupyter&color=f37626&message=%E2%9C%93)](https://jupyter.org/)
+[![CUDA](https://img.shields.io/static/v1?label=CUDA&logo=nVidia&color=87ce3e&message=ThrustRTC)](https://pypi.org/project/ThrustRTC/)
+[![NumPy](https://img.shields.io/static/v1?label=+&logo=numpy&color=blue&message=NumPy)](https://numpy.org/)
+[![Jupyter](https://img.shields.io/static/v1?label=+&logo=Jupyter&color=teal&message=Jupyter)](https://jupyter.org/)
+[![pytest](https://img.shields.io/static/v1?label=+&logo=pytest&color=brown&message=pytest)](https://docs.pytest.org/)
+[![pytest](https://img.shields.io/static/v1?label=+&logo=google&color=3ece87&message=Colab)](https://docs.pytest.org/)
 
 Highlights:   
 [PySDM outline paper on arXiv](https://arxiv.org/abs/2103.17238)   
