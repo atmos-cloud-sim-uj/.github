@@ -18,10 +18,10 @@ Our technologicial stack:
 [![PyCharm](https://img.shields.io/static/v1?label=+&logo=pycharm&color=purple&message=PyCharm)](https:///)
 
 Highlights:   
-[PySDM outline paper on arXiv](https://arxiv.org/abs/2103.17238)   
-[Piotr Bartman's talk on Monte-Carlo on GPU with Python at NCAR's 2021 Improving Scientific Software conference](https://www.youtube.com/watch?v=s7iM9RBtULU)   
-[Michael Olesik's paper on application of PyMPDATA for bin microphysics on arXiv](https://arxiv.org/abs/2011.14726)   
-[Piotr Bartman's paper on the PySDM coagulation solver design](http://doi.org/10.1007/978-3-030-77964-1_2)
+[![youtube](https://img.shields.io/static/v1?label=+&logo=youtube&color=gray&message=youtube)](https://www.youtube.com/watch?v=s7iM9RBtULU) Piotr Bartman's Monte-Carlo on GPU with Python talk at NCAR's 2021 Improving Scientific Software conference   
+[![arXiv](https://img.shields.io/static/v1?label=+&logo=arxiv&color=gray&message=2103.17238)](https://arxiv.org/abs/2103.17238) PySDM outline paper    
+[![arXiv](https://img.shields.io/static/v1?label=+&logo=arxiv&color=gray&message=2101.06318)](https://arxiv.org/abs/2101.06318) Piotr Bartman's paper on the PySDM coagulation solver design   
+[![arXiv](https://img.shields.io/static/v1?label=+&logo=arxiv&color=gray&message=2011.14726)](https://arxiv.org/abs/2011.14726) Michael Olesik's paper on an application of PyMPDATA in bin microphysics   
 
 Interested in joining us in engineering research software and modelling clouds? Let us know!   
 Contact: [Sylwester Arabas](http://www.ii.uj.edu.pl/~arabas/) (currently at [atmos.illinois.edu](https://www.atmos.illinois.edu/~nriemer/group.html))
