@@ -10,8 +10,9 @@ Our technologicial stack:
 
 Highlights:   
 [PySDM outline paper on arXiv](https://arxiv.org/abs/2103.17238)   
-[Piotr Bartman's talk on PySDM at NCAR's 2021 Improving Scientific Software conference](https://www.youtube.com/watch?v=s7iM9RBtULU)   
-[Michael Olesik's paper on application of PyMPDATA for bin microphysics on arXiv](https://arxiv.org/abs/2011.14726)
+[Piotr Bartman's talk on Monte-Carlo on GPU with Python at NCAR's 2021 Improving Scientific Software conference](https://www.youtube.com/watch?v=s7iM9RBtULU)   
+[Michael Olesik's paper on application of PyMPDATA for bin microphysics on arXiv](https://arxiv.org/abs/2011.14726)   
+[Piotr Bartman's paper on the PySDM coagulation solver design](http://doi.org/10.1007/978-3-030-77964-1_2)
 
 Interested in joining us in engineering research software and modelling clouds? Let us know!   
 Group leader: [Sylwester Arabas](http://www.ii.uj.edu.pl/~arabas/) (currently at [atmos.illinois.edu](https://www.atmos.illinois.edu/~nriemer/group.html))
