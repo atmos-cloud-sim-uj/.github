@@ -4,13 +4,18 @@ Funding:
 [![US Funding](https://img.shields.io/static/v1?label=US%20DOE%20Funding%20by&color=267c32&message=ASR&logoWidth=25&logo=image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAQCAMAAAA25D/gAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAASFBMVEVOTXyyIjRDQnNZWINZWITtzdFUU4BVVIFVVYHWiZM9PG/KZnNXVoJaWYT67/FKSXhgX4hgX4lcW4VbWoX03uHQeIN2VXj///9pZChlAAAAAWJLR0QXC9aYjwAAAAd0SU1FB+EICRMGJV+KCCQAAABdSURBVBjThdBJDoAgEETRkkkZBBX0/kd11QTTpH1/STqpAAwWBkobSlkGbt0o5xmEfqxDZJB2Q6XMoBwnVSbTylWp0hi42rmbwTOYPDfR5Kc+07IIUQQvghX9THsBHcES8/SiF0kAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTctMDgtMDlUMTk6MDY6MzcrMDA6MDCX1tBgAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE3LTA4LTA5VDE5OjA2OjM3KzAwOjAw5oto3AAAAABJRU5ErkJggg==)](https://asr.science.energy.gov/)
 
 Our technologicial stack:   
-[![Python 3](https://img.shields.io/static/v1?label=Python&logo=Python&color=3776AB&message=3)](https://www.python.org/)
-[![LLVM](https://img.shields.io/static/v1?label=LLVM&logo=LLVM&color=gold&message=Numba)](https://numba.pydata.org)
-[![CUDA](https://img.shields.io/static/v1?label=CUDA&logo=nVidia&color=87ce3e&message=ThrustRTC)](https://pypi.org/project/ThrustRTC/)
+[![Python 3](https://img.shields.io/static/v1?label=+&logo=Python&color=darkred&message=Python)](https://www.python.org/)
+[![Numba](https://img.shields.io/static/v1?label=+&logo=Numba&color=orange&message=Numba)](https://numba.pydata.org)
+[![LLVM](https://img.shields.io/static/v1?label=+&logo=LLVM&color=gold&message=LLVM)](https://llvm.org)
+[![CUDA](https://img.shields.io/static/v1?label=+&logo=nVidia&color=darkgreen&message=ThrustRTC/CUDA)](https://pypi.org/project/ThrustRTC/)
 [![NumPy](https://img.shields.io/static/v1?label=+&logo=numpy&color=blue&message=NumPy)](https://numpy.org/)
-[![Jupyter](https://img.shields.io/static/v1?label=+&logo=Jupyter&color=teal&message=Jupyter)](https://jupyter.org/)
-[![pytest](https://img.shields.io/static/v1?label=+&logo=pytest&color=brown&message=pytest)](https://docs.pytest.org/)
-[![pytest](https://img.shields.io/static/v1?label=+&logo=google&color=3ece87&message=Colab)](https://docs.pytest.org/)
+[![pytest](https://img.shields.io/static/v1?label=+&logo=pytest&color=purple&message=pytest)](https://pytest.org/)   
+[![Colab](https://img.shields.io/static/v1?label=+&logo=googlecolab&color=darkred&message=Colab)](https://colab.research.google.com/)
+[![PyPI](https://img.shields.io/static/v1?label=+&logo=pypi&color=orange&message=PyPI)](https://pypi.org/)
+[![Codecov](https://img.shields.io/static/v1?label=+&logo=codecov&color=gold&message=Codecov)](https://codecov.io/)
+[![GithubActions](https://img.shields.io/static/v1?label=+&logo=github&color=darkgreen&message=GitHub&nbsp;Actions)](https://github.com/features/actions)
+[![Jupyter](https://img.shields.io/static/v1?label=+&logo=Jupyter&color=blue&message=Jupyter)](https://jupyter.org/)
+[![PyCharm](https://img.shields.io/static/v1?label=+&logo=pycharm&color=purple&message=PyCharm)](https:///)
 
 Highlights:   
 [PySDM outline paper on arXiv](https://arxiv.org/abs/2103.17238)   
@@ -19,4 +24,4 @@ Highlights:
 [Piotr Bartman's paper on the PySDM coagulation solver design](http://doi.org/10.1007/978-3-030-77964-1_2)
 
 Interested in joining us in engineering research software and modelling clouds? Let us know!   
-Group leader: [Sylwester Arabas](http://www.ii.uj.edu.pl/~arabas/) (currently at [atmos.illinois.edu](https://www.atmos.illinois.edu/~nriemer/group.html))
+Contact: [Sylwester Arabas](http://www.ii.uj.edu.pl/~arabas/) (currently at [atmos.illinois.edu](https://www.atmos.illinois.edu/~nriemer/group.html))
