@@ -1,5 +1,5 @@
 #### Highlights:   
-[![JOSS](https://img.shields.io/static/v1?label=+&logo=pdf&color=gray&message=JOSS+under+review)](https://raw.githubusercontent.com/openjournals/joss-papers/joss.03855/joss.03855/10.21105.joss.03855.pdf) PyMPDATA outline paper    
+[![JOSS](https://img.shields.io/static/v1?label=+&logo=pdf&color=gray&message=JOSS+under+review)](https://raw.githubusercontent.com/openjournals/joss-papers/joss.03896/joss.03896/10.21105.joss.03896.pdf) PyMPDATA outline paper    
 [![youtube](https://img.shields.io/static/v1?label=+&logo=youtube&color=gray&message=youtube)](https://www.youtube.com/watch?v=s7iM9RBtULU) Piotr Bartman's Monte-Carlo on GPU with Python talk at NCAR's 2021 Improving Scientific Software conference   
 [![arXiv](https://img.shields.io/static/v1?label=+&logo=arxiv&color=gray&message=2103.17238)](https://arxiv.org/abs/2103.17238) PySDM outline paper    
 [![arXiv](https://img.shields.io/static/v1?label=+&logo=arxiv&color=gray&message=2101.06318)](https://arxiv.org/abs/2101.06318) Piotr Bartman's paper on the PySDM coagulation solver design   
