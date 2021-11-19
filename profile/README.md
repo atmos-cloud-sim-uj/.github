@@ -1,9 +1,10 @@
 #### Highlights:   
+[![PR](https://img.shields.io/static/v1?label=+&logo=github&color=gray&message=PR+under+review)](https://github.com/CliMA/ClimateMachine.jl/pull/2244) [Oleksii Bulenok's](https://github.com/abulenok/) PR to ClimateMachine.jl exemplifying coupling with PySDM   
 [![JOSS](https://img.shields.io/static/v1?label=+&logo=pdf&color=gray&message=JOSS+under+review)](https://raw.githubusercontent.com/openjournals/joss-papers/joss.03896/joss.03896/10.21105.joss.03896.pdf) PyMPDATA outline paper    
-[![youtube](https://img.shields.io/static/v1?label=+&logo=youtube&color=gray&message=youtube)](https://www.youtube.com/watch?v=s7iM9RBtULU) Piotr Bartman's Monte-Carlo on GPU with Python talk at NCAR's 2021 Improving Scientific Software conference   
+[![youtube](https://img.shields.io/static/v1?label=+&logo=youtube&color=gray&message=youtube)](https://www.youtube.com/watch?v=s7iM9RBtULU) [Piotr Bartman's](https://github.com/piotrbartman) Monte-Carlo on GPU with Python talk at NCAR's 2021 Improving Scientific Software conference   
 [![arXiv](https://img.shields.io/static/v1?label=+&logo=arxiv&color=gray&message=2103.17238)](https://arxiv.org/abs/2103.17238) PySDM outline paper    
-[![arXiv](https://img.shields.io/static/v1?label=+&logo=arxiv&color=gray&message=2101.06318)](https://arxiv.org/abs/2101.06318) Piotr Bartman's paper on the PySDM coagulation solver design   
-[![arXiv](https://img.shields.io/static/v1?label=+&logo=arxiv&color=gray&message=2011.14726)](https://arxiv.org/abs/2011.14726) Michael Olesik's paper on an application of PyMPDATA in bin microphysics   
+[![arXiv](https://img.shields.io/static/v1?label=+&logo=arxiv&color=gray&message=2101.06318)](https://arxiv.org/abs/2101.06318) [Piotr Bartman's](https://github.com/piotrbartman/) paper on the PySDM coagulation solver design   
+[![arXiv](https://img.shields.io/static/v1?label=+&logo=arxiv&color=gray&message=2011.14726)](https://arxiv.org/abs/2011.14726) [Michael Olesik's](https://github.com/rlhycd) paper on an application of PyMPDATA in bin microphysics   
 
 #### Our technologicial stack:   
 [![Python 3](https://img.shields.io/static/v1?label=+&logo=Python&color=darkred&message=Python)](https://www.python.org/)
