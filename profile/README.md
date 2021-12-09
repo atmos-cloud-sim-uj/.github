@@ -28,3 +28,9 @@
 #### Contact:
 Interested in joining us in engineering research software and modelling clouds? Let us know!   
 Contact: [Sylwester Arabas](http://www.ii.uj.edu.pl/~arabas/) (currently at [atmos.illinois.edu](https://www.atmos.illinois.edu/~nriemer/group.html))
+
+#### Teams we collaborate with:
+Univ. Warsaw: https://github.com/igfuw/ | https://www.igf.fuw.edu.pl/en/projects/research-groups/mikrofizyka-chmur/  
+Univ. Hyogo: https://github.com/shima-Lab/ | https://s-shima-lab.sakura.ne.jp/en/   
+Univ. Illinois: https://github.com/compdyn/ | https://www.atmos.illinois.edu/~nriemer/   
+Caltech: https://github.com/CliMA/ | https://clima.caltech.edu/
