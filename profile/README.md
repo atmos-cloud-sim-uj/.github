@@ -5,7 +5,7 @@ We are offering a **2-year postdoc at the Jagiellonian University in Kraków** (
 
 **Remuneration**: ca. PLN 6000 ≈ USD 1500 net monthly (public health insurance included), exclusive employment clause imposed, relocation support limitted to air travel to Kraków.
 
-Please send inquiries and application (CV, brief statment of research, pointers to public code repositories and contact information of two references) by e-mail to [Sylwester Arabas](mailto:sylwester.arabas@uj.edu.pl?subject=postdoc).
+Please send inquiries and application (CV, brief statment of research, pointers to contributions to public code repositories, and contact information of two references) by e-mail to [Sylwester Arabas](mailto:sylwester.arabas@uj.edu.pl?subject=postdoc).
 
 #### News:
 [![talk](https://img.shields.io/static/v1?label=+&logo=pdf&color=gray&message=Caltech+seminar)](https://ese.caltech.edu/events/91275) Sylwester's talk at Caltech on PySDM/PyMPDATA mixed-phase cloud simulations   
