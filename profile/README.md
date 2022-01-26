@@ -1,11 +1,11 @@
 #### We are hiring!
-We are offering a **2-year postdoc at the Jagiellonian University in Kraków** (Computer Science) within an [NCN](https://ncn.gov.pl/en)-funded project "Modelling isotopic signatures in precipitation using particle-based cloud microphysics". Project starts in summer 2022 and will be carried out with a team of up to four members in Kraków, in collaboration with research groups listed below. The role involves supervision of one BSc/MSc student and engagement in development of our open-source Python projects. Research independence within the project scope is expected and will be supported with am individual research travel budget.
+We are offering a **2-year postdoc at the Jagiellonian University in Kraków** (Computer Science) within an [NCN](https://ncn.gov.pl/en)-funded project "Modelling isotopic signatures in precipitation using particle-based cloud microphysics". Project starts in summer 2022 and will be carried out with a team of up to four members in Kraków, in collaboration with research groups listed below. The role involves supervision of one BSc/MSc student and engagement in development of our open-source Python projects. Research independence within the project scope is expected and will be supported with an individual research travel budget.
 
 **Requirements**: PhD degree obtained within the past 7 years (excl. maternity breaks) outside of Jagiellonian University; fluency in English; solid programming skills; publicly documented experience in research software engineering, isotope geochemistry or computational [geo]physics (in particular, aerosol-cloud physics).
 
 **Remuneration**: ca. PLN 6000 ≈ USD 1500 net monthly (public health insurance included), exclusive employment clause imposed, relocation support limitted to air travel to Kraków.
 
-Interested? Please e-mail [Sylwester Arabas](mailto:sylwester.arabas@uj.edu.pl?subject=postdoc).
+Please send inquiries and application (CV, brief statment of research, pointers to public code repositories and contact information of two references) by e-mail to [Sylwester Arabas](mailto:sylwester.arabas@uj.edu.pl?subject=postdoc).
 
 #### News:
 [![talk](https://img.shields.io/static/v1?label=+&logo=pdf&color=gray&message=Caltech+seminar)](https://ese.caltech.edu/events/91275) Sylwester's talk at Caltech on PySDM/PyMPDATA mixed-phase cloud simulations   
