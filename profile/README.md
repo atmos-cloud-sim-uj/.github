@@ -64,6 +64,6 @@ Contact: [Sylwester Arabas](http://www.ii.uj.edu.pl/~arabas/) (currently at [atm
 #### Teams we collaborate with:
 Univ. Warsaw: https://github.com/igfuw/ | https://www.igf.fuw.edu.pl/en/projects/research-groups/mikrofizyka-chmur/  
 Univ. Hyogo: https://github.com/shima-Lab/ | https://s-shima-lab.sakura.ne.jp/en/   
-Caltech: https://github.com/CliMA/ | https://clima.caltech.edu/
+Caltech: https://github.com/CliMA/ | https://clima.caltech.edu/    
 Univ. Illinois: https://github.com/compdyn/ | https://www.atmos.illinois.edu/~nriemer/   
 Univ. Hawai'i: https://giuseppetorri.com/
