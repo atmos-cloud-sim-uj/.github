@@ -8,7 +8,7 @@ We are offering a **2-year postdoc at the [Jagiellonian University](https://en.u
 Please send inquiries and applications (CV, brief statment of research, pointers to contributions to public code repositories, and contact information of two references) by e-mail to [Sylwester Arabas](mailto:sylwester.arabas@uj.edu.pl?subject=postdoc).
 
 #### News:
-[![talk](https://img.shields.io/static/v1?label=+&logo=pdf&color=gray&message=Caltech+seminar)](https://ese.caltech.edu/events/91275) Sylwester's talk at Caltech on PySDM/PyMPDATA mixed-phase cloud simulations   
+[![youtube](https://img.shields.io/static/v1?label=+&logo=pdf&color=gray&message=Caltech+seminar)](https://www.youtube.com/watch?v=OOJe-JFMDpU) Sylwester's talk at Caltech on PySDM/PyMPDATA mixed-phase cloud simulations   
 [![PR](https://img.shields.io/static/v1?label=+&logo=github&color=gray&message=PR+under+review)](https://github.com/CliMA/ClimateMachine.jl/pull/2244) [Oleksii Bulenok's](https://github.com/abulenok/) PR to ClimateMachine.jl exemplifying coupling with PySDM   
 [![JOSS](https://img.shields.io/static/v1?label=+&logo=pdf&color=gray&message=JOSS+under+review)](https://raw.githubusercontent.com/openjournals/joss-papers/joss.03896/joss.03896/10.21105.joss.03896.pdf) PyMPDATA outline paper    
 [![youtube](https://img.shields.io/static/v1?label=+&logo=youtube&color=gray&message=youtube)](https://www.youtube.com/watch?v=s7iM9RBtULU) [Piotr Bartman's](https://github.com/piotrbartman) Monte-Carlo on GPU with Python talk at NCAR's 2021 Improving Scientific Software conference   
