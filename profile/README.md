@@ -1,4 +1,5 @@
 #### We are hiring!
+
 We are offering a **2-year postdoc at the [Jagiellonian University](https://en.uj.edu.pl/en_US/about-university) in [Kraków, Poland](https://www.lonelyplanet.com/poland/malopolska/krakow)** within an [NCN](https://ncn.gov.pl/en)-funded project "Modelling isotopic signatures in precipitation using particle-based cloud microphysics". Project will be hosted at the [Division of Computational Mathematics](http://kmo.matinf.uj.edu.pl/indexEN.php) and will start in summer 2022. It will be carried out with a group of up to four members in Kraków, teaming up with [collaborating research groups](https://github.com/atmos-cloud-sim-uj/#teams-we-collaborate-with). The role involves supervision of a BSc/MSc student and engagement in development of our open-source [Python projects](https://github.com/atmos-cloud-sim-uj/#our-python-packages-with-usage-examples-for-julia--matlab). Research independence within the project scope is expected and will be supported with an individual research budget.
 
 **Requirements**: PhD degree obtained within the past 7 years (excl. maternity breaks) outside of Jagiellonian University; fluency in English; solid programming skills; publicly documented experience in areas such as research software engineering, isotope geochemistry or computational [geo]physics (in particular, aerosol-cloud physics).
@@ -6,6 +7,12 @@ We are offering a **2-year postdoc at the [Jagiellonian University](https://en.u
 **Remuneration**: ca. PLN 6000 ≈ USD 1500 net monthly ([public health insurance included](https://ec.europa.eu/social/main.jsp?catId=1124&intPageId=4720&langId=en)), [exclusive employment clause imposed](https://www.ncn.gov.pl/en/aktualnosci/2018-11-09-stanowisko-rada-post-doc), relocation support limitted to air travel to Kraków.
 
 Please send inquiries and applications (CV, brief statment of research, pointers to contributions to public code repositories, and contact information of two references) by e-mail to [Sylwester Arabas](mailto:sylwester.arabas@uj.edu.pl?subject=postdoc).
+
+#### Other funding opportunities
+
+- [33-month assistant professor opening within the "Anthropocene" initiative](https://euraxess.ec.europa.eu/jobs/727990)
+- [PROM funding opportunity for short visits of PhD students from EU](https://dwm.uj.edu.pl/en_GB/inne-oferty/nawa/prom)
+- [ERASMUS+ programme at Jagiellonian University](https://erasmus.uj.edu.pl/en_GB/)
 
 #### News:
 [![youtube](https://img.shields.io/static/v1?label=+&logo=youtube&color=gray&message=youtube)](https://www.youtube.com/watch?v=OOJe-JFMDpU) Sylwester's talk at Caltech on PySDM/PyMPDATA mixed-phase cloud simulations   
