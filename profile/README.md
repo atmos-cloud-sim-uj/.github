@@ -6,7 +6,7 @@ We are offering a **2-year postdoc at the [Jagiellonian University](https://en.u
 
 **Remuneration**: ca. PLN 6000 ≈ USD 1500 net monthly ([public health insurance included](https://ec.europa.eu/social/main.jsp?catId=1124&intPageId=4720&langId=en)), [exclusive employment clause imposed](https://www.ncn.gov.pl/en/aktualnosci/2018-11-09-stanowisko-rada-post-doc), relocation support limitted to air travel to Kraków.
 
-Please send inquiries and applications (CV, brief statment of research, pointers to contributions to public code repositories, and contact information of two references) by e-mail to [Sylwester Arabas](mailto:sylwester.arabas@uj.edu.pl?subject=postdoc).
+Please send inquiries and applications (CV, brief statement of research, pointers to contributions to public code repositories, and contact information of two references) by e-mail to [Sylwester Arabas](mailto:sylwester.arabas@uj.edu.pl?subject=postdoc).
 
 #### Other funding opportunities
 
