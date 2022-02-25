@@ -4,9 +4,13 @@ We are offering a **2-year postdoc at the [Jagiellonian University](https://en.u
 
 **Requirements**: PhD degree obtained within the past 7 years (excl. maternity breaks) outside of Jagiellonian University; fluency in English; solid programming skills; publicly documented experience in areas such as research software engineering, isotope geochemistry or computational [geo]physics (in particular, aerosol-cloud physics).
 
-**Remuneration**: ca. PLN 6000 ≈ USD 1500 net monthly ([public health insurance included](https://ec.europa.eu/social/main.jsp?catId=1124&intPageId=4720&langId=en)), [exclusive employment clause imposed](https://www.ncn.gov.pl/en/aktualnosci/2018-11-09-stanowisko-rada-post-doc), relocation support limitted to air travel to Kraków.
+Note for candidates holding a PhD degree obtained from an institution based outside of European Union, in a country that is not a member of Organisation for Economic Co-operation and Development (OECD) or European Free Trade Association (EFTA) and not covered by any other international agreement on degree equivalence. Upon selection for employment, and prior to commencement of employment, the candidate will be required to obtain [Polish nostrification of the PhD degree](https://nawa.gov.pl/images/users/642/Nostrification-of-higher-education-diplomas.pdf).
 
-Please send inquiries and applications (CV, brief statement of research, pointers to contributions to public code repositories, and contact information of two references) by e-mail to [Sylwester Arabas](mailto:sylwester.arabas@uj.edu.pl?subject=postdoc).
+**Remuneration**: PLN 120000 per year gross (ca. PLN 6000 ≈ USD 1500 net monthly with [public health insurance included](https://ec.europa.eu/social/main.jsp?catId=1124&intPageId=4720&langId=en)), [exclusive employment clause imposed](https://www.ncn.gov.pl/en/aktualnosci/2018-11-09-stanowisko-rada-post-doc), relocation support limitted (potentially) to air travel to Kraków.
+
+Please send inquiries by e-mail to [Sylwester Arabas](mailto:sylwester.arabas@uj.edu.pl?subject=postdoc).
+Official advertisement with detailed application procedure to be published soon at the University website.
+Application requirements will include: CV, brief statement of research, pointers to contributions to public code repositories, and contact information of two references.
 
 #### Other funding opportunities
 
