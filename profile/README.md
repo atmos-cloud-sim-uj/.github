@@ -10,7 +10,7 @@ Note for candidates holding a PhD degree obtained from an institution based outs
 
 Please send inquiries by e-mail to [Sylwester Arabas](mailto:sylwester.arabas@uj.edu.pl?subject=postdoc).
 Official advertisement with detailed application procedure to be published soon at the University website.
-Application requirements will include: CV, brief statement of research, pointers to contributions to public code repositories, and contact information of two references.
+Application requirements will include: CV, brief statement of research, pointers to contributions to public code repositories, and two reference letters.
 
 #### Other funding opportunities
 
