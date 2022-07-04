@@ -55,7 +55,7 @@ atmos-cloud-sim-utils:
 
 #### Contact:
 Interested in joining us in engineering research software and modelling clouds? Let us know!   
-Contact: [Sylwester Arabas](http://www.ii.uj.edu.pl/~arabas/) (currently at [atmos.illinois.edu](https://www.atmos.illinois.edu/~nriemer/group.html))
+Contact: [Sylwester Arabas](http://www.ii.uj.edu.pl/~arabas/)
 
 #### Teams we collaborate with:
 Univ. Warsaw: https://github.com/igfuw/ | https://www.igf.fuw.edu.pl/en/projects/research-groups/mikrofizyka-chmur/  
