@@ -1,5 +1,5 @@
 #### We are hiring!
-- [postdoc position in Kraków (6-18 months), application deadline Sep 30 2022](https://euraxess.ec.europa.eu/jobs/824471)
+- [postdoc position in Kraków (6-18 months)](https://euraxess.ec.europa.eu/jobs/824471)
 - [PROM funding opportunity for short visits of PhD students from EU](https://dwm.uj.edu.pl/en_GB/inne-oferty/nawa/prom)
 - [ERASMUS+ programme at the Jagiellonian University](https://erasmus.uj.edu.pl/en_GB/)
 
