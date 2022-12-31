@@ -1,9 +1,5 @@
-#### We are hiring!
-- [postdoc position in Kraków (6-18 months)](https://euraxess.ec.europa.eu/jobs/824471)
-- [PROM funding opportunity for short visits of PhD students from EU](https://dwm.uj.edu.pl/en_GB/inne-oferty/nawa/prom)
-- [ERASMUS+ programme at the Jagiellonian University](https://erasmus.uj.edu.pl/en_GB/)
-
 #### News:
+[![FOSDEM](https://img.shields.io/static/v1?label=+&logo=pdf&color=gray&message=FOSDEM)](https://fosdem.org/2023/schedule/event/numba_mpi/) [numba-mpi talk](https://fosdem.org/2023/schedule/event/numba_mpi/) at [FOSDEM 2023](https://fosdem.org/2023/) @ ULB by [Sylwester](https://github.com/slayoo/), [Oleksii](https://github.com/abulenok/) & [Kacper](https://github.com/delcior/)    
 [![JOSS](https://img.shields.io/static/v1?label=+&logo=pdf&color=gray&message=JOSS)](https://doi.org/10.21105/joss.03896) PyMPDATA outline paper (published in JOSS)    
 [![JOSS](https://img.shields.io/static/v1?label=+&logo=pdf&color=gray&message=JOSS+under+review)](https://raw.githubusercontent.com/openjournals/joss-papers/joss.04412/joss.04412/10.21105.joss.04412.pdf) PySDM v2 outline paper    
 [![youtube](https://img.shields.io/static/v1?label=+&logo=youtube&color=gray&message=youtube)](https://www.youtube.com/watch?v=OOJe-JFMDpU) Sylwester's talk at Caltech on PySDM/PyMPDATA mixed-phase cloud simulations   
