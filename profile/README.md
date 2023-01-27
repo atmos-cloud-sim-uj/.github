@@ -41,7 +41,7 @@ PyMPDATA-examples:
 numba-mpi:
   [![PyPI version](https://badge.fury.io/py/numba-mpi.svg)](https://pypi.org/project/numba-mpi)
   [![Anaconda-Server Badge](https://anaconda.org/conda-forge/numba-mpi/badges/version.svg)](https://anaconda.org/conda-forge/numba-mpi)
-  [![numba-mpi docs](https://img.shields.io/badge/numba_mpi_docs-pdoc3-blue.svg)](https://atmos-cloud-sim-uj.github.io/numba-mpi/)   
+  [![numba-mpi docs](https://img.shields.io/badge/numba_mpi_docs-pdoc3-blue.svg)](https://numba-mpi.github.io/numba-mpi/)   
 atmos-cloud-sim-utils:
   [![PyPI version](https://badge.fury.io/py/atmos-cloud-sim-uj-utils.svg)](https://pypi.org/project/atmos-cloud-sim-uj-utils)
   [![atmos-cloud-sim-uj-utils docs](https://img.shields.io/badge/utils_docs-pdoc3-blue.svg)](https://atmos-cloud-sim-uj.github.io/utils/)
