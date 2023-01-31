@@ -1,7 +1,7 @@
 #### News:
 [![FOSDEM](https://img.shields.io/static/v1?label=+&logo=pdf&color=gray&message=FOSDEM)](https://fosdem.org/2023/schedule/event/numba_mpi/) [numba-mpi talk](https://fosdem.org/2023/schedule/event/numba_mpi/) at [FOSDEM 2023](https://fosdem.org/2023/) @ ULB by [Sylwester](https://github.com/slayoo/), [Oleksii](https://github.com/abulenok/) & [Kacper](https://github.com/delcior/)    
 [![JOSS](https://img.shields.io/static/v1?label=+&logo=pdf&color=gray&message=JOSS)](https://doi.org/10.21105/joss.03896) PyMPDATA outline paper (published in JOSS)    
-[![JOSS](https://img.shields.io/static/v1?label=+&logo=pdf&color=gray&message=JOSS+under+review)](https://raw.githubusercontent.com/openjournals/joss-papers/joss.04412/joss.04412/10.21105.joss.04412.pdf) PySDM v2 outline paper    
+[![JOSS](https://img.shields.io/static/v1?label=+&logo=pdf&color=gray&message=JOSS+under+review)](https://github.com/openjournals/joss-reviews/issues/4412) PySDM v2 outline paper    
 [![youtube](https://img.shields.io/static/v1?label=+&logo=youtube&color=gray&message=youtube)](https://www.youtube.com/watch?v=OOJe-JFMDpU) Sylwester's talk at Caltech on PySDM/PyMPDATA mixed-phase cloud simulations   
 [![PR](https://img.shields.io/static/v1?label=+&logo=github&color=gray&message=PR)](https://github.com/CliMA/ClimateMachine.jl/pull/2244) [Oleksii Bulenok's](https://github.com/abulenok/) PR to ClimateMachine.jl exemplifying coupling with PySDM   
 [![youtube](https://img.shields.io/static/v1?label=+&logo=youtube&color=gray&message=youtube)](https://www.youtube.com/watch?v=s7iM9RBtULU) [Piotr Bartman's](https://github.com/piotrbartman) Monte-Carlo on GPU with Python talk at NCAR's 2021 Improving Scientific Software conference   
